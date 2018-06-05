@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Catsystem", "Catsystem\Catsystem.csproj", "{5B67BC2A-75AA-4316-A959-C1BDB4C3B04B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatSystemTry", "CatSystemTry\CatSystemTry.csproj", "{70A77F52-837E-4E94-B81A-E983422B855F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework", "Homework\Homework.csproj", "{BC944A61-0177-47CF-9F69-A4E7D461B6A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B67BC2A-75AA-4316-A959-C1BDB4C3B04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B67BC2A-75AA-4316-A959-C1BDB4C3B04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B67BC2A-75AA-4316-A959-C1BDB4C3B04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B67BC2A-75AA-4316-A959-C1BDB4C3B04B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70A77F52-837E-4E94-B81A-E983422B855F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70A77F52-837E-4E94-B81A-E983422B855F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70A77F52-837E-4E94-B81A-E983422B855F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70A77F52-837E-4E94-B81A-E983422B855F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC944A61-0177-47CF-9F69-A4E7D461B6A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC944A61-0177-47CF-9F69-A4E7D461B6A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC944A61-0177-47CF-9F69-A4E7D461B6A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC944A61-0177-47CF-9F69-A4E7D461B6A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
