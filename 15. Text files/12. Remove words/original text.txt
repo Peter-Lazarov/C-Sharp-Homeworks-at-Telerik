@@ -1,0 +1,3 @@
+I write this sentence becouse I need some text wiht words in it, like find and remove.
+Must make list with words to be remove (ed), for that I must first find them and then remove em, and I think
+that is enough for the try.

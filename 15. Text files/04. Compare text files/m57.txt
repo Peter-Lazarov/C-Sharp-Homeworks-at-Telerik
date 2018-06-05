@@ -1,0 +1,12 @@
+﻿Компютър за игри – Thinkcentre M57 бизнес клас, реновиран компютър, цена 310лв.
+
+Параметри на компютъра
+Процесор - Intel Core 2 Duo E6550 2.33GHz
+Памет - 4GB DDR2 800Mhz
+Твърд диск - 250GB HDD Serial ATA
+Оптично у-во - Standart size DVD-RW
+Видеокарта на дънната платка - Intel GMA 4500MHD (384 MB)
+Нова видеокарта - nVidia GeForce GT730
+Мрежова карта - Intel PRO 100/1000 Gigabit Ethernet на 1Mbp
+8xUSB 2.0, VGA, eSATA
+Вграден високоговорител, който служи като тонколона.

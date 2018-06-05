@@ -1,0 +1,2 @@
+test text.txt is file for testing some replacements.
+Homework is realy long and annoying, but we must do some tests and delete some words wiht test prefix at the begining.
