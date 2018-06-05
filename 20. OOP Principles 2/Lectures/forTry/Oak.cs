@@ -1,0 +1,6 @@
+﻿namespace forTry
+{
+    class Oak
+    {
+    }
+}
