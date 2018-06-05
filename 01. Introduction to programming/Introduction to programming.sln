@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. ConsoleWriteName", "03. Console write\03. ConsoleWriteName.csproj", "{DBA8593F-33BC-409D-8073-00F70DAAF443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Numbers1,101and1001", "04. Numbers 1,101 and 1001\04. Numbers1,101and1001.csproj", "{AE3A1AD8-0704-4F97-B481-E89F12804E9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. FirstandLastName", "06. First and Last Name\06. FirstandLastName.csproj", "{E7BCBC96-C027-47F5-A2AA-98BBFBAA9DEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. DateandTime", "07. DateandTime\07. DateandTime.csproj", "{982C1210-F325-4085-9604-F62AB0C11CF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Squareof12345", "08. Squareof12345\08. Squareof12345.csproj", "{FFE22379-6115-41C2-98DB-BC87B6C310CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Sequence", "09. Sequence\09. Sequence.csproj", "{11D13100-3CE8-4F39-B58D-8F3FA4970B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Read and Write", "12. Read and Write\12. Read and Write.csproj", "{B9628A92-AABD-46E4-A881-19AC39388905}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBA8593F-33BC-409D-8073-00F70DAAF443}.Debug|x86.ActiveCfg = Debug|x86
+		{DBA8593F-33BC-409D-8073-00F70DAAF443}.Debug|x86.Build.0 = Debug|x86
+		{DBA8593F-33BC-409D-8073-00F70DAAF443}.Release|x86.ActiveCfg = Release|x86
+		{DBA8593F-33BC-409D-8073-00F70DAAF443}.Release|x86.Build.0 = Release|x86
+		{AE3A1AD8-0704-4F97-B481-E89F12804E9D}.Debug|x86.ActiveCfg = Debug|x86
+		{AE3A1AD8-0704-4F97-B481-E89F12804E9D}.Debug|x86.Build.0 = Debug|x86
+		{AE3A1AD8-0704-4F97-B481-E89F12804E9D}.Release|x86.ActiveCfg = Release|x86
+		{AE3A1AD8-0704-4F97-B481-E89F12804E9D}.Release|x86.Build.0 = Release|x86
+		{E7BCBC96-C027-47F5-A2AA-98BBFBAA9DEF}.Debug|x86.ActiveCfg = Debug|x86
+		{E7BCBC96-C027-47F5-A2AA-98BBFBAA9DEF}.Debug|x86.Build.0 = Debug|x86
+		{E7BCBC96-C027-47F5-A2AA-98BBFBAA9DEF}.Release|x86.ActiveCfg = Release|x86
+		{E7BCBC96-C027-47F5-A2AA-98BBFBAA9DEF}.Release|x86.Build.0 = Release|x86
+		{982C1210-F325-4085-9604-F62AB0C11CF6}.Debug|x86.ActiveCfg = Debug|x86
+		{982C1210-F325-4085-9604-F62AB0C11CF6}.Debug|x86.Build.0 = Debug|x86
+		{982C1210-F325-4085-9604-F62AB0C11CF6}.Release|x86.ActiveCfg = Release|x86
+		{982C1210-F325-4085-9604-F62AB0C11CF6}.Release|x86.Build.0 = Release|x86
+		{FFE22379-6115-41C2-98DB-BC87B6C310CC}.Debug|x86.ActiveCfg = Debug|x86
+		{FFE22379-6115-41C2-98DB-BC87B6C310CC}.Debug|x86.Build.0 = Debug|x86
+		{FFE22379-6115-41C2-98DB-BC87B6C310CC}.Release|x86.ActiveCfg = Release|x86
+		{FFE22379-6115-41C2-98DB-BC87B6C310CC}.Release|x86.Build.0 = Release|x86
+		{11D13100-3CE8-4F39-B58D-8F3FA4970B22}.Debug|x86.ActiveCfg = Debug|x86
+		{11D13100-3CE8-4F39-B58D-8F3FA4970B22}.Debug|x86.Build.0 = Debug|x86
+		{11D13100-3CE8-4F39-B58D-8F3FA4970B22}.Release|x86.ActiveCfg = Release|x86
+		{11D13100-3CE8-4F39-B58D-8F3FA4970B22}.Release|x86.Build.0 = Release|x86
+		{B9628A92-AABD-46E4-A881-19AC39388905}.Debug|x86.ActiveCfg = Debug|x86
+		{B9628A92-AABD-46E4-A881-19AC39388905}.Debug|x86.Build.0 = Debug|x86
+		{B9628A92-AABD-46E4-A881-19AC39388905}.Release|x86.ActiveCfg = Release|x86
+		{B9628A92-AABD-46E4-A881-19AC39388905}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
